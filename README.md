@@ -11,14 +11,10 @@ product:
       quantity    : 1
       description : Super Hoop
       price       : 2392.00
-    - sku         : BL4438H
-      quantity    : 1
-      description : Super Hoop
-      price       : 2392.00
-    - sku         : BL4438H
-      quantity    : 1
-      description : Super Hoop
-      price       : 2392.00
+comments: >
+    Late afternoon is best.
+    Backup contact is Nancy
+    Billsmer @ 338-4338.
 ---
 
 Azure Friday
