@@ -6,12 +6,10 @@ platform :
 author : mumian
 manager : paulettm
 editor : cgronlun
----
-
-guyb
-
----
-guy : 1
+categories:
+- anthropology
+- unibrows
+- various wooly animals
 ---
 
 # Manage Hadoop clusters in HDInsight by using the Azure portal
