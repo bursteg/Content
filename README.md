@@ -1,6 +1,8 @@
 ---
 title: Our Cool Project
 services: virtual-machines, documentdb
+    given  : Chris
+    family : Dumars
 ---
 
 Azure Friday
