@@ -11,6 +11,14 @@ product:
       quantity    : 1
       description : Super Hoop
       price       : 2392.00
+    - sku         : BL4438H
+      quantity    : 1
+      description : Super Hoop
+      price       : 2392.00
+    - sku         : BL4438H
+      quantity    : 1
+      description : Super Hoop
+      price       : 2392.00
 ---
 
 Azure Friday
