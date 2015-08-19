@@ -1,4 +1,7 @@
 ---
+bill-to: &id001
+    given  : Chris
+    family : Dumars
 product:
     - sku         : BL394D
       quantity    : 4
