@@ -7,13 +7,13 @@ author : mumian
 manager : paulettm
 editor : cgronlun
 tags:
-- ms.service : service-bus
-- ms.workload : tbd
-- ms.tgt_pltfrm : na
-- ms.devlang : dotnet
-- ms.topic : hero-article
-- ms.date : 07/02/2015
-- ms.author : sethm
+ ms.service : service-bus
+ ms.workload : tbd
+ ms.tgt_pltfrm : na
+ ms.devlang : dotnet
+ ms.topic : hero-article
+ ms.date : 07/02/2015
+ ms.author : sethm
 ---
 
 # Manage Hadoop clusters in HDInsight by using the Azure portal
