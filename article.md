@@ -7,7 +7,7 @@ authors : mumian
 manager : paulettm
 editor : cgronlun
 tags :
-    service : hdinsight
+    ms.service : hdinsight
 ---
 
 # Manage Hadoop clusters in HDInsight by using the Azure portal
