@@ -6,10 +6,14 @@ platform :
 author : mumian
 manager : paulettm
 editor : cgronlun
-categories:
-- anthropology
-- unibrows
-- various wooly animals
+tags:
+- ms.service : service-bus
+- ms.workload : tbd
+- ms.tgt_pltfrm : na
+- ms.devlang : dotnet
+- ms.topic : hero-article
+- ms.date : 07/02/2015
+- ms.author : sethm
 ---
 
 # Manage Hadoop clusters in HDInsight by using the Azure portal
