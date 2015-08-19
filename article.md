@@ -6,7 +6,7 @@ documentationCenter :
 authors : mumian
 manager : paulettm
 editor : cgronlun
-tags :
+tags : |
     ms.service : hdinsight
     ms.workload : big-data
     ms.tgt_pltfrm : na
